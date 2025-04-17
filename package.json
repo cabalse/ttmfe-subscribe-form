@@ -10,7 +10,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@cabalse/ttmfe-component-lib": "^10.0.0",
+    "@cabalse/ttmfe-component-lib": "^13.3.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
   },
