@@ -10,9 +10,11 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@cabalse/ttmfe-component-lib": "^13.3.0",
     "react": "^19.0.0",
-    "react-dom": "^19.0.0"
+    "react-dom": "^19.0.0",
+    "@tailwindcss/vite": "^4.1.4",
+    "tailwindcss": "^4.1.4",
+    "@cabalse/ttmfe-component-lib": "^15.3.0"
   },
   "devDependencies": {
     "@eslint/js": "^9.21.0",
